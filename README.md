@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Hola! Soy Dylan Fernandez 👋
 
-<!--
-**dylan18x/dylan18x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Developer Intern @ Khronos Cloud | Full-stack & Automation enthusiast
 
-Here are some ideas to get you started:
+Soy un apasionado de la tecnología con base en Ecuador, enfocado en construir soluciones robustas y escalables. Actualmente combinando mis estudios en la UTE con proyectos de impacto real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Lo que domino (Tech Stack)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+### 🔭 Proyectos Destacados
+- **Core Backend:** Integración de Keycloak con servicios de biometría Hikvision.
+- **Pet Adoption System:** Arquitectura completa con TypeORM y PostgreSQL.
+- **Roblox Automation:** Desarrollo de scripts y macros optimizados en Python.
+
+---
+
+### 📊 Mis Estadísticas
+![Estadísticas de Dylan](https://github-readme-stats.vercel.app/api?username=dylan18x&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylan18x&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Conectemos
+- 💼 [LinkedIn](TU_LINK_AQUI)
+- 📧 dylan.fernandez@khronoscloud.com (o tu correo personal)
