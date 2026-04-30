@@ -1,8 +1,8 @@
 # ¡Hola! Soy Dylan Fernandez 👋
 
-### 🚀 Developer Intern @ Khronos Cloud | Full-stack & Automation enthusiast
+### 🚀 Full-stack junior
 
-Soy un apasionado de la tecnología con base en Ecuador, enfocado en construir soluciones robustas y escalables. Actualmente combinando mis estudios en la UTE con proyectos de impacto real.
+Soy un apasionado de la tecnología con base. Actualmente combinando mis estudios en la UTE con proyectos de impacto real.
 
 ---
 
