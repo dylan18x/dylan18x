@@ -11,7 +11,7 @@ Soy un apasionado de la tecnología con base. Actualmente combinando mis estudio
 #### 🌐 Frontend & Estilos
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 🚀 Backend & Frameworks
@@ -31,9 +31,9 @@ Soy un apasionado de la tecnología con base. Actualmente combinando mis estudio
 ---
 
 ### 🔭 Proyectos Destacados
-- **Core Backend:** Integración de Keycloak con servicios de biometría Hikvision.
-- **Pet Adoption System:** Arquitectura completa con TypeORM y PostgreSQL.
-- **Roblox Automation:** Desarrollo de scripts y macros optimizados en Python.
+- **Adopted Pet (Full Stack):** Proyecto integral de adopción de mascotas. Desarrollé el backend con **NestJS** y el frontend con **React**, utilizando **PostgreSQL** para la persistencia de datos.
+- **Core System (Pasantía @ Khronos Cloud):** Implementación de arquitecturas de backend para seguridad y autenticación mediante **Keycloak**
+- **University Lab:** Colección de microservicios, APIs REST y experimentos con hardware (ESP) desarrollados durante mi formación académica.
 
 ---
 
@@ -44,5 +44,5 @@ Soy un apasionado de la tecnología con base. Actualmente combinando mis estudio
 ---
 
 ### 📫 Conectemos
-- 💼 [LinkedIn](TU_LINK_AQUI)
-- 📧 dylan.fernandez@khronoscloud.com (o tu correo personal)
+- 💼 [LinkedIn](https://www.linkedin.com/feed/)
+- 📧 gadieldylan02@gmail.com (o tu correo personal)
