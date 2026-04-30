@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer
 
-Soy un apasionado de la tecnología con base. Actualmente combinando mis estudios en la UTE con proyectos de impacto real.
+Soy un apasionado de la tecnología y cctualmente combino mis estudios en la UTE con proyectos de impacto real.
 
 ---
 
